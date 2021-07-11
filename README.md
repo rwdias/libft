@@ -1,4 +1,4 @@
-# libft
+# libft (42 Cursus) 
 
 Description
 
